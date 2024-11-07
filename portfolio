@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Benji Blanket Coverage</title>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<!-- link the webpage's stylesheet -->
+	<link rel="stylesheet" href="/style.css" />
+
+	<!-- link the webpage's JavaScript file -->
+	<script src="/script.js" defer></script>
+  
+</head>
+
+<body>
+	<h1>My Portfolio</h1>
+
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="portfolio.html">Portfolio</a></li>
+		</ul>
+	</nav>
+
+	
+  <h2>My First Program</h2>
+
+	<img src="assets/2-1-2_cover-2.jpeg"/>
+
+  <p>This is Coverage U !</p>
+
+  <h2>The cover 2</h2>
+
+  <img src="assets/cover-4-zone.png" />
+
+  <p></p>
+
+</body>
+</html>
